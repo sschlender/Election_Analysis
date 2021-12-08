@@ -1,4 +1,4 @@
-# Add our dependencies.
+# Add the dependencies.
 import csv
 import os
 
